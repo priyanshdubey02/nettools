@@ -29,10 +29,6 @@ Reads your machine's network configuration and displays its DHCP lease: IP addre
 
 Run: `python dhcp_watch.py`
 
-### toolkit.py — Launcher Menu
-Single entry point — pick any tool from a menu instead of running files individually.
-
-Run: `python toolkit.py`
 
 ## What I learned
 - **DNS** — how names become IPs, and why caching makes repeat lookups faster
